@@ -4,7 +4,7 @@ import SwiftUI
 struct RandomWeatherAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WeatherDetailView()
         }
     }
 }
