@@ -95,3 +95,4 @@ The API key is reconstructed from separate parts to avoid hardcoding it in the c
 - The code is organized to maximize testability, clarity, and separation of concerns.  
 - Network requests, validations, and mappings are decoupled from the UI.  
 - Logging has been added to help with debugging.
+
